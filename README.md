@@ -4,6 +4,7 @@ An applied economics practice studying how AI changes work, firms, markets, fina
 
 ## Start here
 
+- [AI economics reading list](docs/ai-economics-reading-list.md) traces the literature from early foundations to current research.
 - [Research agenda](docs/research-agenda.md) maps the fields, questions, and methods.
 - [Operating handbook](docs/handbook.md) covers monitoring, research, experiments, forecasts, advocacy, publishing, and revisions.
 - [Project template](templates/project.md) starts a study or decision brief.
