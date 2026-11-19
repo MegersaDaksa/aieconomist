@@ -12,4 +12,6 @@
 | Infrastructure and environment | How do electricity, grid capacity, and compute costs affect deployment? | Cost curves, sensitivity analysis, and an infrastructure note |
 | Behavioral and welfare economics | When does reliance on AI improve decisions or increase overconfidence? | Randomized decision tasks, calibration measures, and a decision-design brief |
 
+For pricing, compute, data centers, and power research questions, see [derived demand across the AI supply chain](ai-economist-career-ladder.md#derived-demand-for-economists-across-the-ai-supply-chain).
+
 Prioritize projects by decision relevance, data access, and whether a credible comparison is feasible. The first project starts with a measurable workflow before moving to claims about firms or the wider economy.
