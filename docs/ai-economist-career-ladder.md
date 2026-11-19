@@ -70,6 +70,31 @@ The three Seattle Amazon examples provide a same-company, same-city comparison, 
 
 Posting examples include both listings and historical references. Recheck live status, location, and pay before applying.
 
+## Derived demand for economists across the AI supply chain
+
+Demand for AI applications creates derived demand for the inputs needed to deliver them. That includes inference and training compute, accelerators and networking, cloud capacity, data center space, and power. This creates demand for economic work on pricing, investment, capacity, and procurement. Employers advertise some of this work under economist titles and some under finance, strategy, or planning titles. These examples demonstrate hiring routes. They do not measure the size or growth of the job market.
+
+| Layer | Economic decision and work product | Search titles and employer evidence |
+| --- | --- | --- |
+| **Tokens, inference, and pricing** | Estimate demand and contribution margin by workload. Compare input, cached-input, and output token charges where applicable. Include retries, tool charges, and human review when measuring cost per accepted task. Use experiments to test price or packaging changes. | Pricing Analyst, Pricing & Monetization, Inference Economics, Strategic Finance Lead. [OpenAI API pricing](https://developers.openai.com/api/docs/pricing) and [OpenAI Strategic Finance Lead, Inference](https://openai.com/careers/strategic-finance-lead-openai-for-inference-san-francisco/). |
+| **Cloud and compute capacity** | Forecast accelerator-hours, utilization, and peak demand by region. Compare on-demand, reserved, and owned capacity, incorporating idle capacity, shortages, and delivery risk. | Capacity Economist, Cloud Economist, Compute Strategic Finance, Capacity Planner. [AWS Economist I, Capacity Economics, indexed posting example](https://www.amazon.jobs/pl/jobs/10495396/economist-i-capacity-economics-aws-central-economics-science) and [OpenAI Strategic Finance, Compute](https://openai.com/careers/strategic-finance-compute-san-francisco/). |
+| **Chips and networking** | Forecast accelerator and network requirements, compare total cost of ownership and useful life, and value supply commitments under uncertain demand and lead times. | Semiconductor Market Analyst, Supply Planning, Data Center Finance. [NVIDIA Director, Finance, Data Center Networking](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Director--Finance---Data-Center-Networking_JR2028768). |
+| **Data centers** | Compare building, leasing, and colocation. Model upfront capital, utilization ramp, cost of delay, and return on invested capital. Translate demand forecasts into planned space and power capacity. | Infrastructure Investment Analyst, Data Center FP&A, Capacity Planning Manager, Infrastructure Strategy Director. [AWS Capacity Planning Manager](https://www.amazon.jobs/en-gb/jobs/10387099/capacity-planning-manager-cdp-emea). |
+| **Power and grid access** | Compare locations, tariff structures, power contracts, and time to energization. Model electricity use in MWh and peak demand in MW. Evaluate the economics of interconnection delays and who bears grid upgrade costs. | Energy Economist, Power Markets Analyst, Data Center Energy Strategy, Power Procurement. [Google Data Center Energy Strategic Negotiator](https://www.google.com/about/careers/applications/jobs/results/100101593252143814-data-center-energy-strategic-negotiator-energy-and-power) and [IEA Energy and AI](https://www.iea.org/reports/energy-and-ai). |
+
+### Qualifications, progression, and compensation
+
+- **Analyst or associate.** Demonstrate SQL, spreadsheet or Python modeling, unit economics, and scenario analysis. Build a forecast tied to an investment or capacity decision. Research-track economist postings may set different degree requirements from adjacent analyst roles.
+- **Economist, senior analyst, or finance lead.** Own a demand forecast, investment case, cost model, or pricing study. Show how you handled utilization uncertainty, engineering constraints, and forecast errors.
+- **Principal, director, or head of function.** Own portfolio trade-offs across products, regions, and capacity commitments. Lead decisions on pricing, capital allocation, or procurement with engineering and commercial teams. The leadership title depends on the mandate.
+- **Disclosed pay example.** OpenAI's San Francisco Strategic Finance, Compute posting disclosed **$234,000–$260,000 base plus equity**. This is a single adjacent finance-role posting. Use it alongside the broader compensation table, with location, level, and pay components kept explicit. [Employer posting](https://openai.com/careers/strategic-finance-compute-san-francisco/)
+
+### Connect the layers in one analysis
+
+Start with completed tasks and translate them into billable tokens by category. Translate inference load into accelerator-hours using benchmarked throughput, batching, and utilization. Convert peak capacity into power needs using equipment draw, cooling and other facility overhead, and spare capacity. Forecast training loads separately. Token prices are customer charges. The provider's cost depends on the resources used, fixed commitments, and operating costs.
+
+A fall in compute required per task can lower the cost of serving a given workload. Total compute demand can still rise if lower prices or better models expand usage enough. A useful sensitivity test varies task volume, tokens per task, throughput, and peak utilization independently, then checks when extra capacity becomes economical. For a financial economist, that work connects demand forecasts and unit costs to capital budgeting and return on invested capital.
+
 ## Portfolio evidence for a financial economist entering AI economics
 
 - **Economist-level evidence.** Produce a reproducible study of AI-assisted financial workflow costs and accuracy using synthetic or public data. Compare manual and AI-assisted production, then validate both against a common rubric. Start from the [workflow economics pilot](../projects/ai-workflow-economics/README.md).
