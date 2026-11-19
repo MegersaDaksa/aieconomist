@@ -4,6 +4,8 @@ An applied economics practice studying how AI changes work, firms, markets, fina
 
 ## Start here
 
+- [AI economist career ladder](docs/ai-economist-career-ladder.md) compares job duties, qualifications, employers, and U.S. compensation from entry level through chief economist.
+
 - [AI economics reading list](docs/ai-economics-reading-list.md) traces the literature from early foundations to current research.
 - [Research agenda](docs/research-agenda.md) maps the fields, questions, and methods.
 - [Operating handbook](docs/handbook.md) covers monitoring, research, experiments, forecasts, advocacy, publishing, and revisions.
