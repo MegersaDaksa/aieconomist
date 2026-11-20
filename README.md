@@ -13,6 +13,10 @@ An applied economics practice studying how AI changes work, firms, markets, fina
 - [Publishing template](templates/publishing.md) turns one evidence base into a paper, article, social post, policy brief, or talk.
 - [First project: When does an AI workflow pay for itself?](projects/ai-workflow-economics/README.md) includes a runnable simulation, a field experiment design, a blog draft, a social post, and a policy memo.
 
+## Economic reviews
+
+- [November 19, 2026 — AI economics review](reviews/2026/2026-11-19-ai-economics-review.md) covers token pricing, chip demand, cloud monetization, AI public financing, and energy infrastructure.
+
 ## Project register
 
 | Project | Fields | Stage | Next decision |
